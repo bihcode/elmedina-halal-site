@@ -1,0 +1,3 @@
+curl -L -o elmedina-halal-app.zip "https://chat.openai.com/backend-api/conversation/download-file/elmedina-halal-app.zip"
+unzip elmedina-halal-app.zip -d .
+rm elmedina-halal-app.zip
